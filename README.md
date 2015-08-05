@@ -1,5 +1,12 @@
 # recursive
-递归
+#递归
+
+
+
+
+
+
+
 
 int jiecheng(int n)     //递归阶乘
 {
